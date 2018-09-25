@@ -1,4 +1,4 @@
-# Gatito Theme
+# Gatito Mojave Theme
 
 ![Gatito Theme Version](https://vsmarketplacebadge.apphb.com/version-short/pawelgrzybek.gatito-theme.svg) ![Gatito Theme Downloads](https://vsmarketplacebadge.apphb.com/installs-short/pawelgrzybek.gatito-theme.svg) ![Gatito Theme Rating](https://vsmarketplacebadge.apphb.com/rating-short/pawelgrzybek.gatito-theme.svg)
 

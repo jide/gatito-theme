@@ -1,5 +1,5 @@
 {
-    "name": "gatito-theme",
+    "name": "gatito-mojave-theme",
     "version": "0.1.0",
     "publisher": "pawelgrzybek",
     "homepage": "https://pawelgrzybek.com/",
@@ -7,7 +7,7 @@
         "vscode": "^1.14.0"
     },
     "license": "MIT",
-    "displayName": "Gatito Theme",
+    "displayName": "Gatito Mojave Theme",
     "description": "Minimalistic and modern looking fork of fantastic Oceanic theme.",
     "categories": [
         "Themes"
@@ -26,7 +26,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Gatito Theme",
+                "label": "Gatito Mojave Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/gatito-theme-color-theme.json"
             }
